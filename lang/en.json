@@ -1,6 +1,6 @@
 {
     "cookies": [
-         "has given you a chocolate chip cookie! u like? tell tru",
+        "has given you a chocolate chip cookie! u like? tell tru",
         "has given you a soft homemade oatmeal cookie! hope u no alergic fem",
         "has given you a plain, dry, old cookie. It was the last one in the bag. Gross. AXAXAXAAXXA take pwn",
         "gives you a sugar cookie. What, no frosting and sprinkles? 0\/10 would not touch. WTF rude u no like?",
@@ -136,7 +136,7 @@
     "deletechat": "\/me [@%%NAME%%] Cleared the chat of %%USERNAME%%.",
     "commandslink": "\/me %%BOTNAME%% commands: %%LINK%%",
     "eatcookie": "\/me eats a cookie.",
-    "nousercookie": "\/em doesn't see %%NAME%% in room and eats a cookie himself.",
+    "nousercookie": "\/me who %%NAME%%? he no here... stop nosen!! how can gived cookied to someone no here?",
     "selfcookie": "\/me @%%NAME%%, stop nosen!! u try to give cookie to yr self? wtf? ultron greed u, big shame on u, why u no share with othed?",
     "cookie": "\/me @%%NAMETO%%, %%NAMEFROM%% %%COOKIE%%",
     "cycleguardtime": "\/me [@%%NAME%%] The cycleguard is set to %%TIME%% minute(s).",
